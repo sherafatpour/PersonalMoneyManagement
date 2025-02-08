@@ -2,6 +2,10 @@
 
 This app helps users manage their finances by calculating and splitting their income into categories like rent, medical expenses, and investments (gold and dollar).
 
+
+![App Screenshot](screenshot/Screenshot_20250208_120649.png)
+
+
 ### Features:
 - Input monthly income, rent, medical expenses, and other expenses.
 - Automatically calculates remaining income after deducting expenses.
